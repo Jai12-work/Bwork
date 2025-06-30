@@ -1,3 +1,3 @@
 First commit
 Second edit
-Conflict 1
+conflict reslove 1
